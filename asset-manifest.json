@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2eea35dd.chunk.css",
+    "main.js": "/static/js/main.f221292f.chunk.js",
+    "main.js.map": "/static/js/main.f221292f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9d0b376c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9d0b376c.js.map",
+    "static/js/2.6ce86fae.chunk.js": "/static/js/2.6ce86fae.chunk.js",
+    "static/js/2.6ce86fae.chunk.js.map": "/static/js/2.6ce86fae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.05dbda0f5353b46618cfada0a6cb5aa0.js": "/precache-manifest.05dbda0f5353b46618cfada0a6cb5aa0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2eea35dd.chunk.css.map": "/static/css/main.2eea35dd.chunk.css.map",
+    "static/media/circle.svg": "/static/media/circle.2d975615.svg",
+    "static/media/dropdown.svg": "/static/media/dropdown.7d32d2fa.svg",
+    "static/media/dropup.svg": "/static/media/dropup.0155fd07.svg",
+    "static/media/external-link.svg": "/static/media/external-link.160dfcc3.svg",
+    "static/media/question.svg": "/static/media/question.cc0a2451.svg",
+    "static/media/x.svg": "/static/media/x.32fa2ee9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d0b376c.js",
+    "static/js/2.6ce86fae.chunk.js",
+    "static/css/main.2eea35dd.chunk.css",
+    "static/js/main.f221292f.chunk.js"
+  ]
+}
